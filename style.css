@@ -58,6 +58,20 @@ html, body {
 	width:100%;
 }
 
+.btn{
+	background-color: #ECC3BF;
+	color:white;
+	font-size:18px;
+	letter-spacing: 1.3px;
+  padding: 16px 40px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.supporting{
+	background-color: #EEE;
+}
+
 @media (max-width: 500px) {
   ul li {
     width: 100%;
