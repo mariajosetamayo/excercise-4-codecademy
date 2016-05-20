@@ -1,3 +1,6 @@
+
+HOW TO USE GIT
+
 Marias-Mac-mini:excercise4 mariajose.tamayo$ git init
 Initialized empty Git repository in /Users/mariajose.tamayo/Documents/codecademy/htmlcss/excercise4/.git/
 Marias-Mac-mini:excercise4 mariajose.tamayo$ git status
