@@ -1,0 +1,65 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.header, main {
+	background-color:#30627E;
+	color: white;
+	font-size: 28px;
+	line-height: 30px; 
+	margin-top: 0;
+	margin-bottom: 20px;
+	padding: 30px 0;
+}
+
+.main {
+	background-color: #ECC3BF;
+	font-size: 40px;
+	height: 80px;
+	vertical-align: middle;
+	padding-top: 19px !important;
+}
+
+.header ul li{
+	display: inline-block;
+	padding: 3px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.jumbotron{
+	background: url("http://www.cats.org.uk/uploads/branches/211/5507692-cat-m.jpg");
+	height: 900px;
+	}
+
+.jumbotron h1{
+  color:black;
+  font-size: 50px;
+  text-align: -webkit-right;
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.text-align-center {
+	text-align: center;
+}
+
+.background-image-cats {
+	background-image: url("http://www.cats.org.uk/uploads/branches/211/5507692-cat-m.jpg");
+	background-size: cover;
+	background-position: center center;
+	height:55rem;
+	width:100%;
+}
+
+@media (max-width: 500px) {
+  ul li {
+    width: 100%;
+  }
+}
